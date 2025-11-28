@@ -6,6 +6,8 @@ A decentralized solution for digital asset inheritance deployed on the Flare Net
 
 - **Network**: Flare Coston2 Testnet
 - **Contract Address**: [`0x61DB787B8aCD014CF5419c9A69aE968bc3476dcf`](https://coston2-explorer.flare.network/address/0x61DB787B8aCD014CF5419c9A69aE968bc3476dcf)
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8f9fa75c-b358-4382-8c1e-708c35d4911c" />
+
 - **Token**: C2FLR (Coston2 Flare)
 
 ## Description
